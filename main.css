@@ -1,0 +1,122 @@
+body {
+    background-size: cover
+}
+
+.d1 {
+    width: 696px;
+    height: 128px;
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+    background: transparent;
+    border: none
+}
+
+em {
+    font: 85px Arial;
+    color: blue
+}
+
+.input {
+    width: 478px;
+    height: 120px;
+    font-size: 85px;
+    font-family: Arial;
+    color: blue;
+    text-align: center;
+    position: relative;
+    left: -55px;
+    background: transparent;
+    border: none
+}
+
+.d2 {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    width: 101mm;
+    height: 157mm;
+    background: #aabbcc
+}
+
+hr {
+    height: 4px;
+    background: blue
+}
+
+.tablo {
+    width: 94mm;
+    height: 30mm;
+    background: #000000;
+    position: relative;
+    top: 2mm;
+    border: solid 1.5mm #4046ec;
+    font: 17mm Arial;
+    color: white;
+    text-align: right
+}
+
+.b1 {
+    position: relative;
+    top: 4mm;
+    width: 21mm;
+    height: 20mm;
+    background: black;
+    font: 10mm Arial;
+    color: white;
+    margin: 4px
+}
+
+.b2 {
+    position: relative;
+    top: 4mm;
+    width: 21mm;
+    height: 20mm;
+    background: black;
+    font: 10mm Arial;
+    color: white;
+    margin: 4px
+}
+
+.b3 {
+    position: relative;
+    top: 4mm;
+    width: 21mm;
+    height: 20mm;
+    background: black;
+    font: 10mm Arial;
+    color: white;
+    margin: 4px
+}
+
+.b4 {
+    position: relative;
+    top: 4mm;
+    width: 21mm;
+    height: 20mm;
+    background: black;
+    font: 10mm Arial;
+    color: white;
+    margin: 4px
+}
+
+.b5 {
+    position: relative;
+    left: -1.2mm;
+    width: 21mm;
+    height: 20mm;
+    background: black;
+    font: 10mm Arial;
+    color: white;
+    margin: 4px
+}
+
+.b6 {
+    position: relative;
+    left: -0.1mm;
+    width: 69mm;
+    height: 20mm;
+    background: black;
+    font: 10mm Arial;
+    color: white
+}
